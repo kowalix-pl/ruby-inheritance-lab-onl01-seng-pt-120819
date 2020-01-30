@@ -9,7 +9,7 @@ steve.first_name = "Steve"
 steve.last_name = "Jobs"
 
 jim = User.new
-jim.first_name =
+jim.first_name = "Jim"
 
 avi = Teacher.new
 avi.first_name = "Avi"
