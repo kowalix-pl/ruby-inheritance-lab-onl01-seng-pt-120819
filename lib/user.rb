@@ -4,3 +4,4 @@ class User
 
 
 end 
+jim = User.new(Jim, Sullivan)
